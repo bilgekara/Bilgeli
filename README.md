@@ -2,9 +2,6 @@
 
 ### Merhabalar, Ben Bilge  👋
 
-[![Website](https://www.shareicon.net/data/512x512/2017/06/30/888065_logo_512x512.png)](https://www.linkedin.com/in/bilgenur-kara/)
-
-
 ## Kendimi geliştirmeye çalışan bir öğrenciyim!!
 
 
