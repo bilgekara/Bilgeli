@@ -2,7 +2,7 @@
 
 ### Merhabalar, Ben Bilge  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bilgenur-kara/)
+[![Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/bilgenur-kara/)
 
 
 ## Kendimi geliştirmeye çalışan bir öğrenciyim!!
