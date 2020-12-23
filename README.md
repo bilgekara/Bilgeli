@@ -2,7 +2,7 @@
 
 ### Merhabalar, Ben Bilge  👋
 
-[![Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/bilgenur-kara/)
+[![Website](https://img.icons8.com/ios/452/linkedin.png)](https://www.linkedin.com/in/bilgenur-kara/)
 
 
 ## Kendimi geliştirmeye çalışan bir öğrenciyim!!
