@@ -2,7 +2,7 @@
 
 ### Merhabalar, Ben Bilge  👋
 
-[![Website](https://www.linkedin.com/in/bilgenur-kara/)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bilgenur-kara/)
 
 
 ## Kendimi geliştirmeye çalışan bir öğrenciyim!!
@@ -14,8 +14,8 @@
 
 ### Benimle iletişim kur:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/bilgenur-kara/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/bilgenur.kara/?hl=tr" />][instagram]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/bilgenur-kara/]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/bilgenur.kara/?hl=tr]
 
 <br />
 
