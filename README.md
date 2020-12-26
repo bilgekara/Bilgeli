@@ -1,9 +1,9 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="200px" src="./resim/1.jpg" />]
-[<img align="left" alt="Gatsby" width="200px" src="./resim/1'1.jpg" />]
-[<img align="left" alt="Gatsby" width="200px" src="./resim/1-.jpg" />]
-[<img align="left" alt="Gatsby" width="200px" src="./resim/2.jpg" />]
-[<img align="left" alt="Gatsby" width="200px" src="./resim/2_1.jpg" />]
+[<img align="left" alt="Gatsby" width="180px" src="./resim/1.jpg" />]
+[<img align="left" alt="Gatsby" width="180px" src="./resim/1'1.jpg" />]
+[<img align="left" alt="Gatsby" width="180px" src="./resim/1-.jpg" />]
+[<img align="left" alt="Gatsby" width="180px" src="./resim/2.jpg" />]
+[<img align="left" alt="Gatsby" width="180px" src="./resim/2_1.jpg" />]
 
 
 ### Merhabalar, Ben Bilge  👋
