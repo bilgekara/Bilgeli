@@ -1,7 +1,8 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="60px" src="./resim/1'1.jpg" />]
-![github-small](./resim/2.jpg)
-![github-small](./resim/2_1.jpg)
+[<img align="left" alt="Gatsby" width="200px" src="./resim/1'1.jpg" />]
+[<img align="left" alt="Gatsby" width="200px" src="./resim/2.jpg" />]
+[<img align="left" alt="Gatsby" width="200px" src="./resim/2_1.jpg" />]
+
 
 ### Merhabalar, Ben Bilge  👋
 
