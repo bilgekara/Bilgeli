@@ -1,4 +1,7 @@
 # Bilgeli
+![github-small](./resim/1'1.jpg)
+![github-small](./resim/2.jpg)
+![github-small](./resim/2_1.jpg)
 
 ### Merhabalar, Ben Bilge  👋
 
