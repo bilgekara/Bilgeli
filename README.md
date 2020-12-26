@@ -1,5 +1,5 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="26px" src="./resim/1'1.jpg" />]
+[<img align="left" alt="Gatsby" width="60px" src="./resim/1'1.jpg" />]
 ![github-small](./resim/2.jpg)
 ![github-small](./resim/2_1.jpg)
 
