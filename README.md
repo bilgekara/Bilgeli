@@ -1,7 +1,7 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="230px" src="./resim/1.jpg" />]
-[<img align="left" alt="Gatsby" width="230px" src="./resim/2.jpg" />]
-[<img align="left" alt="Gatsby" width="230px" src="./resim/3.jpg" />]
+[<img align="left" alt="Gatsby" width="230px" src="./resim/1.jpg" />][deneme]
+[<img align="left" alt="Gatsby" width="230px" src="./resim/2.jpg" />][deneme]
+[<img align="left" alt="Gatsby" width="230px" src="./resim/3.jpg" />][deneme]
 
 ### Merhabalar, Ben Bilge  👋
 
@@ -60,4 +60,7 @@
 [website]: https://www.linkedin.com/in/bilgenur-kara/
 [instagram]: https://www.instagram.com/bilgenur.kara/?hl=tr
 [linkedin]: https://www.linkedin.com/in/bilgenur-kara/
+
+[deneme]: https://www.linkedin.com/in/bilgenur-kara/
+
 
