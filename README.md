@@ -1,7 +1,7 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="290px" src="./resim/1.png" />][deneme]
-[<img align="left" alt="Gatsby" width="290px" src="./resim/2.png" />][deneme]
-[<img align="left" alt="Gatsby" width="290px" src="./resim/3.png" />][deneme]
+[<img align="left" alt="Gatsby" width="350px" src="./resim/1.png" />][deneme]
+[<img align="left" alt="Gatsby" width="350px" src="./resim/2.png" />][deneme]
+[<img align="left" alt="Gatsby" width="350px" src="./resim/3.png" />][deneme]
 
 ### Merhabalar, Ben Bilge  👋
 
