@@ -1,5 +1,5 @@
 # Bilgeli
-[<img align="left" alt="Gatsby" width="400px" src="./resim/1.png" />][deneme]
+[<img align="left" style={margin-left:200px} alt="Gatsby" width="400px" src="./resim/1.png" />][deneme]
 [<img align="left" alt="Gatsby" width="400px" src="./resim/2.png" />][deneme]
 [<img align="left" alt="Gatsby" width="400px" src="./resim/3.png" />][deneme]
 
